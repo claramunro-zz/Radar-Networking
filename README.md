@@ -364,34 +364,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 MIT License
 
 Copyright (c) 2019 Tanner Damron, Kenny Halim, Young Liu, Shawn Lunsford, Clara Munro, Aaron Taylor
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## Acknowledgments
-
-#### [Epicodus](https://www.epicodus.com/)
->"A school for tech careers... to help people learn the skills they need to get great jobs."
-
-#### [The Plato System](https://en.wikipedia.org/w/index.php?title=PLATO_system&redirect=yes)
->"PLATO had sprouted a variety of novel tools for online communication, including Personal Notes (email), Talkomatic (chat rooms), Term-Talk (instant messaging), monitor mode (remote screen sharing) and emoticons."
-
-#### [The Internet](https://webfoundation.org/)
-> "...the first thing that humanity has built that humanity doesn't understand..."
-> - Eric Schmidt, Google (Alphabet Inc.)
