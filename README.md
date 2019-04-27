@@ -12,6 +12,8 @@
 ## Description
 Radar is networking mobile app that utilizes geo-locations to allow local professionals to connect immediately during their free time. It was created and demoed using Nativescript-Vue.
 
+[![Image from Gyazo](https://i.gyazo.com/13298f177d4d0a45440c762d08ef3518.gif)](https://gyazo.com/13298f177d4d0a45440c762d08ef3518)
+
 ## Known Bugs
 
 * About Us and dynamic routing to created user profiles does not work at the moment.
