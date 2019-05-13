@@ -10,7 +10,7 @@
 ----------
 
 ## Description
-Radar is networking mobile app that utilizes geo-locations to allow local professionals to connect immediately during their free time. It was created and demoed using Nativescript-Vue.
+Radar is networking app (mobile development as of right now, web app in future) that utilizes geo-locations to allow local professionals to connect immediately during their free time. It was created and demoed using Nativescript-Vue.
 
   <td><img src="/wireframe.png"/></td>
 
